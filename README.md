@@ -12,7 +12,7 @@ Start by reading the Chainkit API Quickstart in this directory.
 
 ## Getting Credentials
 
-If you need a username and password to access the Chainkit APIs, please sign up for our 14-day free trial at https://chainkit.com/start
+Please schedule a demo to recieve overview of the product + API credentials: https://chainkit.com/schedule-demo
 
 You can also email us at: sales@chainkit.com for more information on our products.
 
